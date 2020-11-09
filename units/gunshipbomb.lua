@@ -106,7 +106,7 @@ return { gunshipbomb = {
       firestarter        = 180,
       impulseBoost       = 0,
       impulseFactor      = 0.4,
-      soundHit           = "explosion/ex_med17",
+      soundHit           = "explosion/ex_cust_1",
     },
   }
 } }
